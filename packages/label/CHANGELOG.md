@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/galdeguer/lerna-conventional-commits/compare/@lerna-geniuz/label@0.1.3...@lerna-geniuz/label@1.0.0) (2019-09-16)
+
+
+### Features
+
+* **label:** some changes in label ([1a18c0d](https://github.com/galdeguer/lerna-conventional-commits/commit/1a18c0d))
+
+
+### BREAKING CHANGES
+
+* **label:** this is a breaking change
+
+
+
+
+
 ## [0.1.3](https://github.com/galdeguer/lerna-conventional-commits/compare/@lerna-geniuz/label@0.1.2...@lerna-geniuz/label@0.1.3) (2019-09-16)
 
 
