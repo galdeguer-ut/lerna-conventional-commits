@@ -7,9 +7,6 @@
   "license": "ISC",
   "main": "dist/index.js",
   "module": "src/index.js",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "scripts": {
     "transpile": "babel src -d dist --ignore '**/*.spec.js,**/*.stories.js'",
     "jest": "jest --coverage --verbose --color",
@@ -33,5 +30,8 @@
       "../../setupTests"
     ]
   },
-  "gitHead": "5555aaac9bc7f842a955525a7d4636bde55e322e"
+  "gitHead": "bbb64af8325a9b7bcd27b48d679679dde35ac11c",
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  }
 }
