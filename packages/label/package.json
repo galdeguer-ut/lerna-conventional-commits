@@ -32,5 +32,6 @@
     "setupFiles": [
       "../../setupTests"
     ]
-  }
+  },
+  "gitHead": "5555aaac9bc7f842a955525a7d4636bde55e322e"
 }
