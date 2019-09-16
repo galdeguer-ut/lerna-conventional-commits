@@ -1,0 +1,36 @@
+{
+  "name": "@lerna-geniuz/label",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "Guillem Aldeguer Lima <galdeguer@userzoom.com>",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "transpile": "babel src -d dist --ignore '**/*.spec.js,**/*.stories.js'",
+    "jest": "jest --coverage --verbose --color",
+    "build": "npm run jest && npm run transpile"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "env": {
+      "test": {
+        "plugins": [
+          "transform-es2015-modules-commonjs"
+        ]
+      }
+    }
+  },
+  "jest": {
+    "setupFiles": [
+      "../../setupTests"
+    ]
+  }
+}
