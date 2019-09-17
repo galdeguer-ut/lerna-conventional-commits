@@ -4,6 +4,7 @@
   "description": "Test with lerna and conventional commits",
   "main": "index.js",
   "scripts": {
+    "lerna-publish": "lerna publish --conventional-commits",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
