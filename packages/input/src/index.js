@@ -6,7 +6,7 @@ const Input = ({
   type,
 }) => (
   <Fragment>
-    <Label>My Input E</Label>
+    <Label>My Input F</Label>
     <input className={`gz-input ${className}`} type={type} />
   </Fragment>
 );
