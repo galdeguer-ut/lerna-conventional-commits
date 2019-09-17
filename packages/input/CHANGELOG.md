@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/galdeguer/lerna-conventional-commits/compare/@lerna-geniuz/input@0.1.4...@lerna-geniuz/input@0.2.0) (2019-09-17)
+
+
+### Bug Fixes
+
+* **input:** changes final ([e5b5ab2](https://github.com/galdeguer/lerna-conventional-commits/commit/e5b5ab2))
+
+
+### Features
+
+* **input:** changes ([4b8407c](https://github.com/galdeguer/lerna-conventional-commits/commit/4b8407c))
+* **input:** changes ([669893c](https://github.com/galdeguer/lerna-conventional-commits/commit/669893c))
+* **input:** changes ([d3e7e15](https://github.com/galdeguer/lerna-conventional-commits/commit/d3e7e15))
+
+
+
+
+
 ## [0.1.4](https://github.com/galdeguer/lerna-conventional-commits/compare/@lerna-geniuz/input@0.1.3...@lerna-geniuz/input@0.1.4) (2019-09-17)
 
 
