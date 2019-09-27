@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/galdeguer/lerna-conventional-commits/compare/@lerna-geniuz/label@2.0.0...@lerna-geniuz/label@2.0.1) (2019-09-27)
+
+
+### Bug Fixes
+
+* **label:** updated children ([3c681e6](https://github.com/galdeguer/lerna-conventional-commits/commit/3c681e6))
+
+
+
+
+
 # [2.0.0](https://github.com/galdeguer/lerna-conventional-commits/compare/@lerna-geniuz/label@1.0.0...@lerna-geniuz/label@2.0.0) (2019-09-16)
 
 
