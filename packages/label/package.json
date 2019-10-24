@@ -30,7 +30,7 @@
       "../../setupTests"
     ]
   },
-  "gitHead": "bcf04c09637f3111f41e9acd3b426bcfef08a865",
+  "gitHead": "a6b764c9f9c6c33e8232b2687b4e390a5aaa32d8",
   "publishConfig": {
     "registry": "http://localhost:4873/"
   }
