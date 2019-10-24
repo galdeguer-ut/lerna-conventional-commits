@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react';
 import Label from '@lerna-geniuz/label';
 
-
 const Input = ({
   className,
   type,
